@@ -5,7 +5,7 @@
 
 - 📫 Почта: **s.nikulin.ggc@yandex.ru**
 
-- 📄 Резюме: [[https://kazan.hh.ru/resume/5845d5baff0cdd53130039ed1f6633466e4363]](https://nn.hh.ru/resume/5845d5baff0cdd53130039ed1f6633466e4363)
+- 📄 Резюме: [(https://nn.hh.ru/resume/5845d5baff0cdd53130039ed1f6633466e4363)](https://nn.hh.ru/resume/5845d5baff0cdd53130039ed1f6633466e4363)
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
 <a href="https://kaggle.com/sergeinikulin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sergeinikulin" height="30" width="40" /></a>
